@@ -1,15 +1,15 @@
 module.exports = {
   // *Required* Prefix for commands.
-  PREFIX: '!',
+  PREFIX: '+',
   PORT: 5000,
 
   // *Required* Bot token. Can be found in your bots application page.
   // https://discordapp.com/developers/applications/me
-  TOKEN: '',
+  TOKEN: 'NDU1NjY3Mzc0OTkwMDMyODk2.DgDBLg.lgkY0drta1MTD5RQRiAD64KpfuE',
 
   // *Required* Bot client ID. Can be found in your bots application page.
   // https://discordapp.com/developers/applications/me
-  CLIENT_ID: '',
+  CLIENT_ID: '455667374990032896',
 
   // *Required* Redis URL. Can be left blank if Redis is opened locally.
   // Learn more here. http://redis.io/topics/quickstart
